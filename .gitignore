@@ -1,0 +1,17 @@
+# Assignment notebooks are deliberately kept out of this public repository
+# while the AM04 group assignment is live.
+*.ipynb
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
